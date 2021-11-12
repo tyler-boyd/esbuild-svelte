@@ -2,10 +2,10 @@
 **node_modules/
 
 #should be built by running `node build.js` fresh every time
-dist/index.mjs
-dist/index.js
+# Need these in the repo to use it as a git source in npm
+# dist/index.mjs
+# dist/index.js
 
 # from example
 example/dist/
 example/package-lock.json
-
